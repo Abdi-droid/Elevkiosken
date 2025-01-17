@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "678a6512ac8909ac7d7748cd"
+  },
+  "ProductID": 1,
+  "ProductName": "Chocolate Bar",
+  "Stock": 100,
+  "Supplier": "Candy Co."
+},
+{
+  "_id": {
+    "$oid": "678a6512ac8909ac7d7748ce"
+  },
+  "ProductID": 2,
+  "ProductName": "Soda Can",
+  "Stock": 200,
+  "Supplier": "Soda Inc."
+},
+{
+  "_id": {
+    "$oid": "678a6512ac8909ac7d7748cf"
+  },
+  "ProductID": 3,
+  "ProductName": "Cookies",
+  "Stock": 150,
+  "Supplier": "Baker's Delight"
+},
+{
+  "_id": {
+    "$oid": "678a6512ac8909ac7d7748d0"
+  },
+  "ProductID": 4,
+  "ProductName": "Lemonade",
+  "Stock": 180,
+  "Supplier": "Soda Inc."
+},
+{
+  "_id": {
+    "$oid": "678a6512ac8909ac7d7748d1"
+  },
+  "ProductID": 5,
+  "ProductName": "Gummy Bears",
+  "Stock": 120,
+  "Supplier": "Candy Co."
+},
+{
+  "_id": {
+    "$oid": "678a6ccfac8909ac7d774cd8"
+  },
+  "ProductID": 1,
+  "ProductName": "Chocolate Bar",
+  "Stock": 100,
+  "Supplier": "Candy Co."
+},
+{
+  "_id": {
+    "$oid": "678a6ccfac8909ac7d774cd9"
+  },
+  "ProductID": 2,
+  "ProductName": "Soda Can",
+  "Stock": 200,
+  "Supplier": "Soda Inc."
+},
+{
+  "_id": {
+    "$oid": "678a6ccfac8909ac7d774cda"
+  },
+  "ProductID": 3,
+  "ProductName": "Cookies",
+  "Stock": 150,
+  "Supplier": "Baker's Delight"
+},
+{
+  "_id": {
+    "$oid": "678a6ccfac8909ac7d774cdb"
+  },
+  "ProductID": 4,
+  "ProductName": "Lemonade",
+  "Stock": 180,
+  "Supplier": "Soda Inc."
+},
+{
+  "_id": {
+    "$oid": "678a6ccfac8909ac7d774cdc"
+  },
+  "ProductID": 5,
+  "ProductName": "Gummy Bears",
+  "Stock": 120,
+  "Supplier": "Candy Co."
+}]
